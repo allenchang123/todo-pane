@@ -1,0 +1,5 @@
+{
+  "name": "todo-pane",
+  "owner": { "name": "allenchang123" },
+  "plugins": [{ "name": "todo-pane", "source": "./" }]
+}

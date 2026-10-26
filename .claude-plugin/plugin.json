@@ -1,0 +1,15 @@
+{
+  "name": "todo-pane",
+  "version": "0.6.0",
+  "description": "A to-do band above the prompt, shared by every session of the same project. 輸入框上方的待辦清單，同專案的 session 共用。",
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "language": {
+      "type": "string",
+      "title": "Language / 語言",
+      "description": "auto follows the system locale",
+      "options": ["auto", "zh-TW", "en"],
+      "default": "auto"
+    }
+  }
+}
