@@ -1,4 +1,4 @@
-# todo-pane
+# todo pane for claude code
 
 A small to-do list for Claude Code that sits in a band above the prompt box.
 Every session of the same project shares one list.
